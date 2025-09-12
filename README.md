@@ -70,7 +70,7 @@ Built and tested entirely in **Google Colab**, this project covers:
 - **CIFAR-10 Preview**
  
 <img width="1610" height="574" alt="477730516-c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" src="https://github.com/user-attachments/assets/ffa23258-3d02-4a22-941a-b6a5f8db38da" />
-[screen-capture (1).webm](https://github.com/user-attachments/assets/5d50068b-456f-488b-ac48-9e1e0aebf6fd)
+[screen-capture (2).webm](https://github.com/user-attachments/assets/3e88ca56-34bf-4784-b539-a0fce334db59)
 
 ---
 

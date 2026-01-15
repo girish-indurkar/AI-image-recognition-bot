@@ -15,15 +15,7 @@ Built and tested entirely in **Google Colab**, this project covers:
 - **2:** Building and training a CNN from scratch (TensorFlow/Keras)
 - **3:** Data augmentation, batch normalization, and advanced model training
 - **4:** Transfer learning with MobileNetV2
-- **5:** Model evaluation, confusion matrix, misclassified examples, Gradio deployment
-
----
-
-## 🎯 Why This Project?
-- **End-to-End Workflow** — From dataset to interactive AI demo
-- **Industry-Ready Practices** — Transfer learning, efficient pipelines, deployment
-- **Recruiter Value** — Demonstrates TensorFlow, Colab, GitHub skills
-- **Portfolio Showcase** — Annotated notebook for clarity & reproducibility
+- **5:** Model evaluation, confusion matrix, misclassified examples, Gradio deploymen
 
 ---
 
@@ -54,22 +46,10 @@ Built and tested entirely in **Google Colab**, this project covers:
 
 ---
 
-## 📈 Example Results
-- **Test Accuracy:** ~90% after fine-tuning
-- **Training Curves:**  
-
-  *!  *<img width="990" height="374" alt="download" src="https://github.com/user-attachments/assets/1e8bc068-3618-4dab-9d43-25e5dbcbb995" />
-<img width="981" height="374" alt="download" src="https://github.com/user-attachments/assets/5858e375-a799-4ad9-847a-c720d6c5ee60" />
-
-- **Confusion Matrix:**  
-
-<img width="763" height="755" alt="download" src="https://github.com/user-attachments/assets/511d9126-376f-4d6b-9f6b-5f0873b09b0c" />
-
 
 ---
-- **CIFAR-10 Preview**
+- **CIFAR-10 Demo**
  
-<img width="1610" height="574" alt="477730516-c8b40a0f-3a80-4aa6-9e7c-d31d0fa449e8" src="https://github.com/user-attachments/assets/ffa23258-3d02-4a22-941a-b6a5f8db38da" />
 [screen-capture (2).webm](https://github.com/user-attachments/assets/3e88ca56-34bf-4784-b539-a0fce334db59)
 
 ---
